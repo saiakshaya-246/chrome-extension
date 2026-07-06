@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Extension: Cat Image Replacer",
+  "description": "A Google Chrome extension (Manifest V3) that replaces all images on any webpage with random cat images fetched from a public API, including an interactive simulator and video-style demo walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
